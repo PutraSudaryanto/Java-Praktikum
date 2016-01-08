@@ -1,8 +1,8 @@
-class TujuhSatu {
+class Latihan71 {
 	private double alas;
 	private double tinggi;
 
-	public TujuhSatu() {
+	public Latihan71() {
 		alas = 0;
 		tinggi = 0;
 	}
@@ -32,10 +32,10 @@ class TujuhSatu {
 	}
 
 	public static void main(String[] args) {
-		TujuhSatu s = new TujuhSatu();
+		Latihan71 s = new Latihan71();
 		s.setAlas(4);
 		s.setTinggi(5);
 		System.out.println("contoh enkapsulasi");
-		System.out.println("luas TujuhSatu = "+ s.getLuas(0));
+		System.out.println("luas Latihan71 = "+ s.getLuas(0));
 	}
 }

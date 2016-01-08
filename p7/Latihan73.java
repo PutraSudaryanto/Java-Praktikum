@@ -1,11 +1,11 @@
-public class TujuhTiga {
+public class Latihan73 {
 	private double r;
 	
-	public TujuhTiga(double r) {
+	public Latihan73(double r) {
 		this.r = r;
 	}
 	
-	public TujuhTiga() {
+	public Latihan73() {
 		r = 7.0;
 	}
 	
@@ -18,7 +18,7 @@ public class TujuhTiga {
 	}
 	
 	public static void main(String[] args) {
-		TujuhTiga L = new TujuhTiga();
+		Latihan73 L = new Latihan73();
 		
 		System.out.println("contoh polymorphism");
 		System.out.println("\nLuas lingkaran adalahh : " + L.luas() + "CM");

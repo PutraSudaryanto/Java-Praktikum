@@ -47,7 +47,7 @@ class Ikommed extends Fakultas {
     }
 }
 
-class TujuhEmpat {
+class Latihan74 {
     public static void main(String[] args) {
 		Ekonomi a = new Ekonomi("ekonomi", 2, "akuntansi dan manajemen");
         TI b = new TI("TI", 2, "SI da TI");

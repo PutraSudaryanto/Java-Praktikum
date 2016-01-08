@@ -33,7 +33,7 @@ class Motor extends Kendaraan {
     }
 }
 
-class TujuhDua {
+class Latihan72 {
     public static void main(String[] args) {
 		Mobil m = new Mobil("mobil", 4);
         Truk t = new Truk("truk", 6);
