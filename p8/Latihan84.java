@@ -1,7 +1,7 @@
 import java.awt.*;
 
-public class DelapanEmpat extends Frame {
-    public DelapanEmpat() {
+public class Latihan84 extends Frame {
+    public Latihan84() {
         setTitle("Contoh Button");
         setLayout(new FlowLayout());
         add(new Button("yellow"));
@@ -36,7 +36,7 @@ public class DelapanEmpat extends Frame {
     }
 
     public static void main(String args[]) {
-        DelapanEmpat f = new DelapanEmpat();
+        Latihan84 f = new Latihan84();
         f.setLocation(300,100);
         f.resize(400,300);
         f.show();
