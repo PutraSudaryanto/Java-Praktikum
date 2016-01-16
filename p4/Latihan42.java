@@ -27,6 +27,3 @@ class Latihan42 {
 		} while (i <= 12);
 	}
 }
-
-
-

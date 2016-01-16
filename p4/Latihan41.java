@@ -22,6 +22,3 @@ class Latihan41 {
 		} while (i < 15);
 	}
 }
-
-
-

@@ -27,6 +27,3 @@ class Latihan43 {
 		} while (i < 15);
 	}
 }
-
-
-
